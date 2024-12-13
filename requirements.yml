@@ -1,0 +1,15 @@
+# run: conda env create --file environment.yml
+name: ddm_env
+dependencies:
+- python
+- anaconda
+- pip
+- numpy  # pin version for conda
+- scipy
+- pandas
+- tqdm
+- tk
+- matplotlib
+- pip:
+  - paranoid-scientist
+  - pyddm
