@@ -14,7 +14,7 @@ Then, open Anaconda Prompt and type the following to install the dependencies in
 
 ```bash
 cd project_folder
-conda env create --file environment.yml
+conda env create --file requirements.yml
 conda activate ddm_env
 ```
 
