@@ -1,7 +1,6 @@
 # Yao Lab DDM
 
 A drift diffusion model with fittable bounds and drift, which is scaled by log(AM Rate) - log(6.25).
-Author: Madeline Berns
 
 ## Table of Contents
 
